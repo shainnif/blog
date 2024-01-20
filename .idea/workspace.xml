@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4349cb0-beeb-4a27-b9db-9f3dd91026ca" name="Changes" comment="add build for github pages">
-      <change beforePath="$PROJECT_DIR$/blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_config.yml" afterDir="false" />
+    <list default="true" id="c4349cb0-beeb-4a27-b9db-9f3dd91026ca" name="Changes" comment="added auto build">
+      <change beforePath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <updated>1705783684350</updated>
       <workItem from="1705783685386" duration="58000" />
       <workItem from="1705783754125" duration="18000" />
-      <workItem from="1705783776770" duration="2939000" />
+      <workItem from="1705783776770" duration="3328000" />
     </task>
     <task id="LOCAL-00001" summary="initial version">
       <option name="closed" value="true" />
@@ -92,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705786437050</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added auto build">
+      <option name="closed" value="true" />
+      <created>1705786732794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705786732794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +111,7 @@
     <MESSAGE value="initial version" />
     <MESSAGE value="Corrected name and title" />
     <MESSAGE value="add build for github pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="add build for github pages" />
+    <MESSAGE value="added auto build" />
+    <option name="LAST_COMMIT_MESSAGE" value="added auto build" />
   </component>
 </project>
